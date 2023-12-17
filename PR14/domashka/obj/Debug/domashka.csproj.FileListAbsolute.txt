@@ -1,0 +1,14 @@
+D:\Progra\domashka\domashka\obj\Debug\domashka.csproj.AssemblyReference.cache
+D:\Progra\domashka\domashka\obj\Debug\domashka.csproj.CoreCompileInputs.cache
+D:\Progra\domashka\domashka\bin\Debug\domashka.exe.config
+D:\Progra\domashka\domashka\bin\Debug\domashka.exe
+D:\Progra\domashka\domashka\bin\Debug\domashka.pdb
+D:\Progra\domashka\domashka\obj\Debug\domashka.exe
+D:\Progra\domashka\domashka\obj\Debug\domashka.pdb
+D:\Progra\PR14\domashka\bin\Debug\domashka.exe.config
+D:\Progra\PR14\domashka\bin\Debug\domashka.exe
+D:\Progra\PR14\domashka\bin\Debug\domashka.pdb
+D:\Progra\PR14\domashka\obj\Debug\domashka.csproj.AssemblyReference.cache
+D:\Progra\PR14\domashka\obj\Debug\domashka.csproj.CoreCompileInputs.cache
+D:\Progra\PR14\domashka\obj\Debug\domashka.exe
+D:\Progra\PR14\domashka\obj\Debug\domashka.pdb
